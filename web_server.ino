@@ -7,7 +7,7 @@
 #include <Wire.h>
 /*para programar el nodeMCU hay que cruzar los cables tx rx*/
 /*const char* ssid = "LAB";
-const char* password = "4E17@27!";*/
+const char* password = "xxxxxx";*/
 #define PIN1      D8//pantalla 1 cable azul en el pro mini era 2
 #define PIN2      D7//pantalla 2 cable blanco azul en el pro mini era 3
 #define PIN3      D6//pantalla 3 cable blanco verde en el pro mini era 5
